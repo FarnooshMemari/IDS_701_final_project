@@ -1,0 +1,723 @@
+ccn,fac_name,change_year,prev_year,ownership_before,ownership_after,ctrl_type_before,ctrl_type_after,any_merger,treated,unaccounted_ownership_change
+010022,FLOYD CHEROKEE MEDICAL CENTER,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+010033,UNIVERSITY OF ALABAMA HOSPITAL,2017,2016.0,government,non_profit,10.0,1,0,0,1
+010033,UNIVERSITY OF ALABAMA HOSPITAL,2018,2017.0,non_profit,government,1.0,10,0,0,1
+010035,CULLMAN REGIONAL MEDICAL CENTER,2013,2012.0,non_profit,government,1.0,9,0,0,1
+010054,,2012,2011.0,for_profit,government,4.0,8,0,0,1
+010065,RUSSELL MEDICAL CENTER,2019,2018.0,for_profit,non_profit,6.0,2,0,0,1
+010086,NORTHWEST MEDICAL CENTER,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+010114,"MEDICAL WEST, AN AFFILIATE OF UAB HEALTH SYSTEM",2018,2017.0,non_profit,government,2.0,10,0,0,1
+010125,LAKELAND COMMUNITY HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+010129,NORTH BALDWIN INFIRMARY,2012,2011.0,government,non_profit,9.0,2,0,0,1
+010158,RUSSELLVILLE HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+010169,ATMORE COMMUNITY HOSPITAL,2014,2013.0,non_profit,government,2.0,9,0,1,0
+010169,ATMORE COMMUNITY HOSPITAL,2015,2014.0,government,non_profit,9.0,2,1,1,0
+013027,,2012,2011.0,non_profit,for_profit,1.0,4,0,0,1
+014011,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+014011,,2014,2013.0,for_profit,government,4.0,10,0,0,1
+014013,,2016,2015.0,for_profit,non_profit,4.0,3,0,0,1
+014013,,2018,2017.0,non_profit,for_profit,3.0,4,0,0,1
+014014,,2016,2015.0,government,non_profit,9.0,3,0,0,1
+014014,,2017,2016.0,non_profit,for_profit,3.0,4,0,0,1
+014014,,2018,2017.0,for_profit,government,4.0,9,0,0,1
+014015,,2016,2015.0,for_profit,non_profit,4.0,3,0,0,1
+014015,,2017,2016.0,non_profit,for_profit,3.0,4,0,0,1
+014017,,2013,2012.0,non_profit,government,2.0,9,0,0,1
+020026,ALASKA NATIVE MEDICAL CENTER,2013,2012.0,for_profit,government,6.0,7,0,0,1
+024001,,2019,2018.0,non_profit,for_profit,2.0,4,0,0,1
+030033,BANNER PAYSON MEDICAL CENTER,2015,2014.0,for_profit,non_profit,4.0,2,1,1,0
+030071,FORT DEFIANCE INDIAN HOSPITAL,2012,2011.0,government,for_profit,7.0,4,0,0,1
+030071,FORT DEFIANCE INDIAN HOSPITAL,2013,2012.0,for_profit,government,4.0,7,0,0,1
+030074,SELLS INDIAN HEALTH SERVICE HOSPITAL,2013,2012.0,for_profit,government,4.0,7,0,0,1
+030077,SAN CARLOS INDIAN HOSPITAL,2013,2012.0,for_profit,government,4.0,7,0,0,1
+030084,CHINLE COMPREHENSIVE HEALTH CARE FACILITY,2013,2012.0,for_profit,government,4.0,7,0,0,1
+030113,WHITERIVER PHS INDIAN HOSPITAL,2013,2012.0,for_profit,government,4.0,7,0,0,1
+030136,DIGNITY HEALTH - ARIZONA GENERAL HOSPITAL,2018,2017.0,for_profit,non_profit,5.0,2,0,1,0
+032001,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+032001,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+033025,,2016,2015.0,for_profit,non_profit,4.0,3,0,0,1
+033301,,2014,2013.0,non_profit,for_profit,3.0,6,0,0,1
+033301,,2016,2015.0,for_profit,non_profit,6.0,2,0,0,1
+033301,,2017,2016.0,non_profit,for_profit,2.0,6,0,0,1
+040018,BAPTIST HEALTH - VAN BUREN,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+040047,FIVE RIVERS MEDICAL CENTER,2017,2016.0,non_profit,government,2.0,10,0,0,1
+040051,DREW MEMORIAL HOSPITAL,2013,2012.0,government,non_profit,9.0,2,0,0,1
+040055,BAPTIST HEALTH - FORT SMITH,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+040080,,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+040084,SALINE MEMORIAL HOSPITAL,2016,2015.0,non_profit,for_profit,2.0,4,0,1,0
+041302,RIVER VALLEY MEDICAL CENTER,2017,2016.0,government,for_profit,9.0,4,0,1,0
+041302,DARDANELLE HOSPITAL,2019,2018.0,for_profit,non_profit,4.0,2,1,1,0
+041309,LAWRENCE MEMORIAL HOSPITAL,2019,2018.0,government,non_profit,9.0,2,0,0,1
+041326,DELTA MEMORIAL HOSPITAL,2013,2012.0,government,non_profit,10.0,2,0,0,1
+042000,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+042000,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+042000,,2014,2013.0,for_profit,government,4.0,10,0,0,1
+042004,,2017,2016.0,non_profit,for_profit,1.0,4,0,0,1
+042006,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+042008,,2017,2016.0,non_profit,for_profit,1.0,4,0,0,1
+042009,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+044013,,2018,2017.0,for_profit,non_profit,4.0,1,0,0,1
+044017,,2015,2014.0,non_profit,government,2.0,9,0,0,1
+044017,,2016,2015.0,government,non_profit,9.0,2,0,0,1
+044021,,2019,2018.0,for_profit,non_profit,6.0,2,0,0,1
+050084,ST JOSEPH'S MEDICAL CENTER OF STOCKTON,2016,2015.0,non_profit,for_profit,1.0,4,0,1,0
+050084,ST JOSEPH'S MEDICAL CENTER OF STOCKTON,2017,2016.0,for_profit,non_profit,4.0,1,0,1,0
+050084,ST JOSEPH'S MEDICAL CENTER OF STOCKTON,2018,2017.0,non_profit,for_profit,1.0,4,0,1,0
+050084,ST JOSEPH'S MEDICAL CENTER OF STOCKTON,2019,2018.0,for_profit,non_profit,4.0,1,1,1,0
+050158,ENCINO HOSPITAL MEDICAL CENTER,2016,2015.0,for_profit,non_profit,4.0,2,0,0,1
+050179,EMANUEL MEDICAL CENTER,2014,2013.0,non_profit,for_profit,1.0,4,1,1,0
+050205,EAST VALLEY GLENDORA HOSPITAL,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+050225,FEATHER RIVER HOSPITAL,2014,2013.0,for_profit,non_profit,4.0,1,0,0,1
+050226,AHMC ANAHEIM REGIONAL MEDICAL CENTER,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+050272,REDLANDS COMMUNITY HOSPITAL,2012,2011.0,non_profit,government,2.0,8,0,0,1
+050272,REDLANDS COMMUNITY HOSPITAL,2016,2015.0,government,non_profit,8.0,2,0,0,1
+050280,MERCY MEDICAL CENTER REDDING,2015,2014.0,non_profit,for_profit,1.0,4,0,1,0
+050280,MERCY MEDICAL CENTER REDDING,2017,2016.0,for_profit,non_profit,4.0,1,0,1,0
+050350,BEVERLY HOSPITAL,2013,2012.0,non_profit,government,2.0,8,0,0,1
+050350,BEVERLY HOSPITAL,2016,2015.0,government,non_profit,8.0,2,0,0,1
+050394,COMMUNITY MEMORIAL HOSPITAL SAN BUENAVENTURA,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+050435,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+050454,UCSF MEDICAL CENTER,2014,2013.0,non_profit,government,1.0,10,0,0,1
+050488,EDEN MEDICAL CENTER,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+050517,VICTOR VALLEY GLOBAL MEDICAL CENTER,2013,2012.0,non_profit,for_profit,2.0,4,0,1,0
+050541,KAISER FOUNDATION HOSPITAL - REDWOOD CITY,2019,2018.0,non_profit,for_profit,2.0,4,0,0,1
+050580,LA PALMA INTERCOMMUNITY HOSPITAL,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+050696,KECK HOSPITAL OF USC,2012,2011.0,for_profit,non_profit,4.0,2,0,0,1
+050697,PATIENTS' HOSPITAL OF REDDING,2018,2017.0,for_profit,non_profit,6.0,3,0,0,1
+050704,MISSION COMMUNITY HOSPITAL - PANORAMA,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+050723,KAISER FOUNDATION HOSPITAL - BALDWIN PARK,2013,2012.0,for_profit,non_profit,6.0,2,0,0,1
+050740,MARINA DEL REY HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+050754,MENLO PARK SURGICAL HOSPITAL,2013,2012.0,for_profit,non_profit,4.0,2,0,0,1
+050755,SHERMAN OAKS HOSPITAL,2012,2011.0,for_profit,non_profit,4.0,2,0,0,1
+050758,MONTCLAIR HOSPITAL MEDICAL CENTER,2016,2015.0,for_profit,non_profit,4.0,2,0,0,1
+050758,MONTCLAIR HOSPITAL MEDICAL CENTER,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+050766,SUTTER SURGICAL HOSPITAL - NORTH VALLEY,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+050773,SAN LEANDRO HOSPITAL,2014,2013.0,non_profit,government,2.0,9,0,0,1
+051334,OJAI VALLEY COMMUNITY HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+053038,,2016,2015.0,non_profit,for_profit,2.0,4,0,0,1
+053038,,2017,2016.0,for_profit,non_profit,4.0,3,0,0,1
+053306,,2014,2013.0,non_profit,for_profit,2.0,4,0,0,1
+053306,,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+053308,,2014,2013.0,for_profit,non_profit,5.0,2,0,0,1
+053308,,2015,2014.0,non_profit,for_profit,2.0,4,0,0,1
+053308,,2016,2015.0,for_profit,non_profit,4.0,2,0,0,1
+053308,,2018,2017.0,non_profit,for_profit,2.0,4,0,0,1
+053310,,2013,2012.0,for_profit,non_profit,6.0,2,0,0,1
+053311,,2018,2017.0,non_profit,for_profit,2.0,4,0,0,1
+053311,,2019,2018.0,for_profit,non_profit,4.0,2,0,0,1
+054028,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+054028,,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+054028,,2019,2018.0,non_profit,for_profit,2.0,4,0,0,1
+054083,,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+054083,,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+054114,,2013,2012.0,government,for_profit,9.0,6,0,0,1
+054114,,2014,2013.0,for_profit,non_profit,6.0,2,0,0,1
+054114,,2016,2015.0,non_profit,government,1.0,9,0,0,1
+054114,,2017,2016.0,government,non_profit,9.0,2,0,0,1
+054114,,2018,2017.0,non_profit,government,2.0,9,0,0,1
+054123,,2014,2013.0,for_profit,non_profit,4.0,1,0,0,1
+054148,,2012,2011.0,for_profit,non_profit,4.0,2,0,0,1
+054149,,2012,2011.0,for_profit,non_profit,4.0,3,0,0,1
+054149,,2014,2013.0,non_profit,for_profit,2.0,6,0,0,1
+054149,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+054149,,2019,2018.0,non_profit,for_profit,1.0,4,0,0,1
+054150,,2013,2012.0,for_profit,non_profit,4.0,2,0,0,1
+054153,,2015,2014.0,non_profit,for_profit,2.0,4,0,0,1
+060010,POUDRE VALLEY HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+060010,POUDRE VALLEY HOSPITAL,2013,2012.0,for_profit,non_profit,4.0,2,0,1,0
+060011,DENVER HEALTH MEDICAL CENTER,2015,2014.0,non_profit,government,2.0,10,0,0,1
+060119,MEDICAL CENTER OF THE ROCKIES,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+060119,MEDICAL CENTER OF THE ROCKIES,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+061326,UCHEALTH PIKES PEAK REGIONAL HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+062014,,2016,2015.0,for_profit,government,4.0,7,0,0,1
+062015,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+062015,,2017,2016.0,government,for_profit,10.0,4,0,0,1
+062016,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+062016,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+070005,WATERBURY HOSPITAL,2017,2016.0,non_profit,for_profit,2.0,4,0,1,0
+070012,ROCKVILLE GENERAL HOSPITAL,2017,2016.0,non_profit,for_profit,2.0,4,0,1,0
+070027,MANCHESTER MEMORIAL HOSPITAL,2017,2016.0,non_profit,for_profit,2.0,4,0,1,0
+074015,,2018,2017.0,non_profit,for_profit,3.0,6,0,0,1
+082000,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+100014,FLORIDA HOSPITAL NEW SMYRNA,2017,2016.0,government,non_profit,9.0,1,0,1,0
+100023,CITRUS MEMORIAL HOSPITAL,2015,2014.0,non_profit,for_profit,2.0,4,0,1,0
+100026,BAY MEDICAL CENTER SACRED HEART HEALTH SYSTEM,2013,2012.0,government,for_profit,9.0,4,0,1,0
+100026,ASCENSION SACRED HEART BAY,2019,2018.0,for_profit,non_profit,4.0,1,1,1,0
+100032,BAYFRONT HEALTH - ST PETERSBURG,2017,2016.0,non_profit,for_profit,2.0,4,0,1,0
+100062,FLORIDA HOSPITAL OCALA,2018,2017.0,for_profit,non_profit,4.0,1,1,1,0
+100063,MORTON PLANT NORTH BAY HOSPITAL,2012,2011.0,for_profit,non_profit,6.0,2,0,0,1
+100067,ST ANTHONY'S HOSPITAL,2012,2011.0,for_profit,non_profit,6.0,2,0,1,0
+100121,BARTOW REGIONAL MEDICAL CENTER,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+100134,ED FRASER MEMORIAL HOSPITAL,2016,2015.0,non_profit,government,2.0,9,0,0,1
+100134,ED FRASER MEMORIAL HOSPITAL,2018,2017.0,government,non_profit,9.0,2,0,0,1
+100137,ADVENTHEALTH HEART OF FLORIDA,2019,2018.0,for_profit,non_profit,4.0,1,1,1,0
+100139,,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+100211,ADVENTHEALTH DADE CITY,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+100286,PHYSICIANS REGIONAL MEDICAL CENTER - PINE RIDGE,2012,2011.0,non_profit,for_profit,1.0,6,0,1,0
+100316,PALM BAY HOSPITAL,2012,2011.0,non_profit,government,2.0,7,0,0,1
+100316,PALM BAY HOSPITAL,2013,2012.0,government,non_profit,7.0,2,0,0,1
+101304,CALHOUN-LIBERTY HOSPITAL,2016,2015.0,government,non_profit,9.0,2,1,1,0
+101312,FISHERMEN'S HOSPITAL,2012,2011.0,for_profit,non_profit,4.0,2,0,0,1
+102001,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+102003,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+102003,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+102016,,2012,2011.0,non_profit,for_profit,1.0,4,0,0,1
+102017,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+102020,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+102020,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+102024,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+102024,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+103303,,2013,2012.0,for_profit,non_profit,6.0,2,0,0,1
+103303,,2015,2014.0,non_profit,for_profit,2.0,4,0,0,1
+103303,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+104008,,2014,2013.0,non_profit,for_profit,2.0,4,0,0,1
+104008,,2016,2015.0,for_profit,non_profit,4.0,2,0,0,1
+104032,,2013,2012.0,non_profit,government,2.0,10,0,0,1
+110003,MEMORIAL SATILLA HEALTH,2018,2017.0,government,for_profit,9.0,4,0,1,0
+110025,SOUTHEAST GEORGIA HEALTH SYSTEM- BRUNSWICK CAMPUS,2017,2016.0,government,non_profit,8.0,2,0,0,1
+110031,WELLSTAR SPALDING REGIONAL HOSPITAL,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+110040,NORTHRIDGE MEDICAL CENTER,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+110044,PHOEBE SUMTER MEDICAL CENTER,2018,2017.0,government,non_profit,9.0,2,0,1,0
+110045,NORTHEAST GEORGIA MEDICAL CENTER BARROW,2017,2016.0,for_profit,non_profit,4.0,2,1,1,0
+110046,"PIEDMONT WALTON HOSPITAL, INC",2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+110087,NORTHSIDE HOSPITAL GWINNETT,2019,2018.0,government,non_profit,9.0,2,1,1,0
+110089,COFFEE REGIONAL MEDICAL CENTER,2013,2012.0,government,non_profit,9.0,2,0,0,1
+110091,PIEDMONT ROCKDALE HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+110095,TIFT REGIONAL MEDICAL CENTER,2019,2018.0,government,non_profit,9.0,2,0,0,1
+110101,COOK  MEDICAL CENTER  A CAMPUS OF TIFT REG MED CTR,2012,2011.0,for_profit,government,4.0,9,1,1,0
+110115,WELLSTAR ATLANTA MEDICAL CENTER,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+110129,ST FRANCIS HOSPITAL,2016,2015.0,non_profit,for_profit,2.0,4,1,1,0
+110163,PHOEBE NORTH,2012,2011.0,for_profit,government,4.0,8,0,1,0
+110198,WELLSTAR NORTH FULTON HOSPITAL,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+110200,NORTHSIDE MEDICAL CENTER,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+110230,EMORY JOHNS CREEK HOSPITAL,2012,2011.0,for_profit,non_profit,4.0,2,0,0,1
+110236,CORNERSTONE MEDICAL CENTER,2017,2016.0,for_profit,non_profit,6.0,2,0,1,0
+111315,,2014,2013.0,government,for_profit,9.0,4,0,0,1
+111326,SGMC LANIER CAMPUS,2015,2014.0,non_profit,government,2.0,8,0,1,0
+112005,,2014,2013.0,non_profit,for_profit,2.0,4,0,0,1
+112009,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+112009,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+112012,,2018,2017.0,non_profit,for_profit,2.0,5,0,0,1
+112015,,2017,2016.0,non_profit,for_profit,1.0,4,0,0,1
+114012,,2017,2016.0,non_profit,for_profit,2.0,5,0,0,1
+120002,MAUI MEMORIAL MEDICAL CENTER,2016,2015.0,government,non_profit,10.0,1,0,1,0
+123301,,2013,2012.0,for_profit,non_profit,6.0,2,0,0,1
+123301,,2014,2013.0,non_profit,for_profit,2.0,4,0,0,1
+123301,,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+130003,ST JOSEPH REGIONAL MEDICAL CENTER,2017,2016.0,non_profit,for_profit,1.0,4,1,1,0
+130067,IDAHO DOCTORS HOSPITAL,2014,2013.0,for_profit,non_profit,5.0,2,0,0,1
+130067,IDAHO DOCTORS HOSPITAL,2015,2014.0,non_profit,for_profit,2.0,5,0,0,1
+131313,TETON VALLEY HOSPITAL,2014,2013.0,government,non_profit,9.0,2,0,0,1
+140054,MACNEAL  HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,1,1,1,0
+140172,FRANCISCAN ST JAMES HEALTH,2014,2013.0,for_profit,non_profit,4.0,1,0,0,1
+140251,COMMUNITY FIRST MEDICAL CENTER,2019,2018.0,non_profit,for_profit,3.0,4,0,1,0
+142010,,2013,2012.0,for_profit,non_profit,5.0,2,0,0,1
+143302,,2013,2012.0,for_profit,non_profit,6.0,2,0,0,1
+143302,,2016,2015.0,non_profit,for_profit,1.0,6,0,0,1
+144034,,2012,2011.0,non_profit,government,2.0,10,0,0,1
+144039,,2016,2015.0,non_profit,for_profit,2.0,4,0,0,1
+150005,HENDRICKS REGIONAL HEALTH,2018,2017.0,non_profit,government,2.0,9,0,0,1
+150007,COMMUNITY HOWARD REGIONAL HEALTH INC,2013,2012.0,government,non_profit,9.0,2,0,1,0
+150009,CLARK MEMORIAL HOSPITAL,2015,2014.0,government,for_profit,9.0,4,1,1,0
+150044,BAPTIST HEALTH FLOYD,2017,2016.0,government,non_profit,9.0,2,0,1,0
+150102,STARKE HOSPITAL,2018,2017.0,non_profit,for_profit,2.0,4,0,1,0
+150158,IU HEALTH WEST HOSPITAL,2019,2018.0,for_profit,non_profit,4.0,2,0,0,1
+150161,INDIANA UNIVERSITY HEALTH NORTH HOSPITAL,2019,2018.0,for_profit,non_profit,4.0,2,0,0,1
+150173,INDIANA UNIVERSITY HEALTH ARNETT HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+151307,ST VINCENT WILLIAMSPORT HOSPITAL INC,2018,2017.0,for_profit,non_profit,6.0,1,0,0,1
+151310,"PARKVIEW WABASH HOSPITAL, INC",2015,2014.0,government,non_profit,9.0,2,1,1,0
+151312,INDIANA UNIVERSITY HEALTH WHITE MEMORIAL HOSPITAL,2012,2011.0,government,non_profit,9.0,2,0,1,0
+151320,JAY COUNTY HOSPITAL,2014,2013.0,non_profit,government,2.0,9,0,0,1
+151320,IU HEALTH JAY,2019,2018.0,government,non_profit,9.0,2,0,0,1
+151324,"FRANCISCAN HEALTH RENSSELAER, INC",2016,2015.0,government,non_profit,9.0,1,0,1,0
+151334,SCOTT MEMORIAL HOSPITAL,2013,2012.0,government,for_profit,9.0,4,1,1,0
+152014,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+152014,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+152025,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+154008,,2013,2012.0,non_profit,for_profit,2.0,6,0,0,1
+154008,,2014,2013.0,for_profit,government,6.0,10,0,0,1
+154008,,2015,2014.0,government,for_profit,10.0,4,0,0,1
+154008,,2019,2018.0,for_profit,government,4.0,10,0,0,1
+154056,,2014,2013.0,non_profit,government,3.0,10,0,0,1
+154056,,2018,2017.0,government,for_profit,10.0,4,0,0,1
+154056,,2019,2018.0,for_profit,government,4.0,10,0,0,1
+160104,TRINITY BETTENDORF,2014,2013.0,non_profit,for_profit,2.0,6,0,0,1
+160104,TRINITY BETTENDORF,2015,2014.0,for_profit,non_profit,6.0,2,0,0,1
+162001,GENTIVA HEALTH SERVICES,2012,2011.0,for_profit,government,4.0,10,0,0,1
+162001,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+164005,,2012,2011.0,government,non_profit,10.0,2,0,0,1
+164005,,2014,2013.0,non_profit,government,2.0,10,0,0,1
+170009,SAINT JOHN HOSPITAL,2013,2012.0,non_profit,for_profit,1.0,4,1,1,0
+170016,UNIVERSITY OF KANSAS HLTH SYSTEM ST FRANCIS CAMPUS,2018,2017.0,non_profit,for_profit,1.0,4,0,1,0
+170109,MIAMI COUNTY MEDICAL CENTER,2018,2017.0,for_profit,non_profit,6.0,2,0,0,1
+170146,PROVIDENCE MEDICAL CENTER,2013,2012.0,non_profit,for_profit,1.0,4,1,1,0
+170194,DOCTORS HOSPITAL LLC,2013,2012.0,non_profit,for_profit,2.0,6,0,0,1
+170201,,2012,2011.0,non_profit,for_profit,1.0,4,0,0,1
+171372,SCOTT COUNTY HOSPITAL,2014,2013.0,non_profit,government,2.0,9,0,0,1
+171373,ALLEN COUNTY REGIONAL HOSPITAL,2013,2012.0,for_profit,government,4.0,9,0,0,1
+172005,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+172005,,2019,2018.0,government,for_profit,10.0,4,0,0,1
+180038,OWENSBORO HEALTH REGIONAL HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,2,0,0,1
+180048,EPHRAIM MCDOWELL REGIONAL MEDICAL CENTER,2018,2017.0,for_profit,non_profit,6.0,2,0,0,1
+180053,FLEMING COUNTY HOSPITAL,2015,2014.0,government,for_profit,9.0,4,0,0,1
+180105,MONROE COUNTY MEDICAL CENTER,2016,2015.0,for_profit,non_profit,6.0,2,0,0,1
+181310,CARROLL COUNTY MEMORIAL HOSPITAL,2013,2012.0,for_profit,non_profit,4.0,2,0,0,1
+181310,CARROLL COUNTY MEMORIAL HOSPITAL,2015,2014.0,non_profit,for_profit,2.0,4,0,0,1
+181310,CARROLL COUNTY MEMORIAL HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,2,0,0,1
+181310,CARROLL COUNTY MEMORIAL HOSPITAL,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+181325,JANE TODD CRAWFORD HOSPITAL,2017,2016.0,non_profit,government,2.0,9,0,0,1
+181328,BARBOURVILLE ARH HOSPITAL,2016,2015.0,government,non_profit,9.0,2,0,0,1
+182003,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+182004,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+182006,,2014,2013.0,for_profit,non_profit,4.0,2,0,0,1
+183026,,2015,2014.0,non_profit,for_profit,2.0,4,0,0,1
+183300,,2015,2014.0,non_profit,for_profit,2.0,5,0,0,1
+183300,,2016,2015.0,for_profit,non_profit,5.0,2,0,0,1
+183300,,2017,2016.0,non_profit,for_profit,2.0,5,0,0,1
+184013,,2014,2013.0,for_profit,non_profit,5.0,3,0,0,1
+184013,,2015,2014.0,non_profit,for_profit,3.0,4,0,0,1
+184017,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+190005,UNIVERSITY MEDICAL CENTER NEW ORLEANS,2015,2014.0,government,non_profit,10.0,2,0,1,0
+190005,UNIVERSITY MEDICAL CENTER NEW ORLEANS,2016,2015.0,non_profit,for_profit,2.0,4,0,1,0
+190005,UNIVERSITY MEDICAL CENTER NEW ORLEANS,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+190006,UNIVERSITY HOSPITAL & CLINICS,2013,2012.0,government,non_profit,10.0,2,0,1,0
+190011,UNIVERSITY HEALTH CONWAY,2014,2013.0,government,for_profit,10.0,4,0,1,0
+190011,UNIVERSITY HEALTH CONWAY,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+190088,SPRINGHILL MEDICAL CENTER,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+190098,UNIVERSITY HEALTH SHREVEPORT,2014,2013.0,government,for_profit,10.0,4,0,1,0
+190098,UNIVERSITY HEALTH SHREVEPORT,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+192012,,2017,2016.0,non_profit,for_profit,1.0,4,0,0,1
+192023,,2018,2017.0,non_profit,for_profit,2.0,4,0,0,1
+192051,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+192051,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+194007,,2013,2012.0,government,for_profit,10.0,6,0,0,1
+200041,INLAND HOSPITAL,2014,2013.0,for_profit,non_profit,6.0,2,0,0,1
+201304,MOUNT DESERT ISLAND HOSPITAL,2013,2012.0,non_profit,for_profit,2.0,6,0,0,1
+201304,MOUNT DESERT ISLAND HOSPITAL,2015,2014.0,for_profit,non_profit,6.0,2,0,0,1
+210001,ASERACARE HOME HEALTH,2012,2011.0,non_profit,for_profit,2.0,6,0,0,1
+210001,MERITUS MEDICAL CENTER,2016,2015.0,for_profit,non_profit,6.0,2,0,0,1
+210058,JAMES LAWRENCE KERNAN HOSPITAL INC,2012,2011.0,government,non_profit,10.0,2,0,1,0
+210062,MEDSTAR SOUTHERN MARYLAND HOSPITAL CENTER,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+213029,,2013,2012.0,for_profit,non_profit,4.0,1,0,0,1
+214000,,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+220008,STURDY MEMORIAL HOSPITAL,2017,2016.0,non_profit,for_profit,2.0,5,0,0,1
+220008,STURDY MEMORIAL HOSPITAL,2018,2017.0,for_profit,non_profit,5.0,2,0,0,1
+220049,MARLBOROUGH HOSPITAL,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+220067,QUINCY MEDICAL CENTER,2012,2011.0,non_profit,for_profit,2.0,4,0,1,0
+220073,MORTON HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,0,1,0
+220110,BRIGHAM AND WOMEN'S HOSPITAL,2019,2018.0,non_profit,for_profit,2.0,4,0,0,1
+222025,,2014,2013.0,government,non_profit,10.0,3,0,0,1
+222027,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+223303,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+223303,,2015,2014.0,for_profit,non_profit,5.0,3,0,0,1
+223304,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+223304,,2015,2014.0,for_profit,non_profit,5.0,3,0,0,1
+224007,,2016,2015.0,non_profit,for_profit,2.0,4,0,0,1
+224007,,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+230022,COMMUNITY HEALTH CENTER OF BRANCH COUNTY,2015,2014.0,government,non_profit,9.0,2,0,1,0
+230031,LAKE HURON MEDICAL CENTER,2016,2015.0,non_profit,for_profit,2.0,4,0,1,0
+230054,MARQUETTE GENERAL HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+230093,SPECTRUM HEALTH BIG RAPIDS HOSPITAL,2013,2012.0,government,non_profit,9.0,2,1,1,0
+230095,WEST BRANCH REGIONAL MEDICAL CENTER,2015,2014.0,government,non_profit,8.0,2,0,1,0
+230096,STURGIS HOSPITAL,2015,2014.0,government,non_profit,8.0,2,0,0,1
+230141,MCLAREN FLINT,2013,2012.0,government,non_profit,7.0,2,0,0,1
+230244,GARDEN CITY HOSPITAL,2014,2013.0,non_profit,for_profit,2.0,4,1,1,0
+230303,WEST SHORE MEDICAL CENTER,2016,2015.0,government,non_profit,9.0,2,0,1,0
+231321,BELL HOSPITAL,2014,2013.0,non_profit,for_profit,1.0,4,0,1,0
+232012,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+232012,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+232019,,2013,2012.0,for_profit,government,4.0,10,0,0,1
+232019,,2016,2015.0,government,for_profit,10.0,6,0,0,1
+232021,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+232024,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+232024,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+232026,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+232026,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+232029,,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+232030,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+232030,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+232032,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+232035,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+232038,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+232038,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+240022,SANFORD  WORTHINGTON MEDICAL CENTER,2012,2011.0,government,non_profit,8.0,2,0,0,1
+240084,ESSENTIA HEALTH VIRGINIA,2013,2012.0,government,non_profit,8.0,2,0,1,0
+241328,SANFORD BAGLEY MEDICAL CENTER,2012,2011.0,government,non_profit,8.0,2,1,1,0
+241354,TRI COUNTY HOSPITAL,2016,2015.0,government,non_profit,9.0,2,0,0,1
+241368,CENTRACARE HEALTH SYSTEM - SAUK CENTRE,2013,2012.0,government,non_profit,8.0,2,0,0,1
+241380,ST JOSEPHS AREA  HEALTH SERVICES,2013,2012.0,non_profit,government,2.0,9,0,1,0
+242005,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+243303,,2016,2015.0,non_profit,for_profit,1.0,6,0,0,1
+244016,,2017,2016.0,for_profit,non_profit,6.0,3,0,0,1
+250025,GILMORE MEMORIAL HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+250042,NORTHWEST MISSISSIPPI MEDICAL CENTER,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+250084,MERIT HEALTH NATCHEZ,2017,2016.0,government,for_profit,9.0,4,0,1,0
+250127,CHOCTAW HEALTH CENTER,2013,2012.0,for_profit,government,4.0,7,0,0,1
+250128,PANOLA MEDICAL CENTER,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+250162,OCHSNER MEDICAL CENTER-HANCOCK,2019,2018.0,government,non_profit,9.0,2,0,1,0
+251302,MONROE REGIONAL HOSPITAL,2019,2018.0,for_profit,non_profit,4.0,2,0,0,1
+251315,BAPTIST MEDICAL CENTER-LEAKE,2013,2012.0,government,non_profit,9.0,1,0,1,0
+251320,CLAIBORNE COUNTY HOSPITAL,2013,2012.0,for_profit,government,4.0,9,0,0,1
+251331,BMH-CALHOUN,2017,2016.0,government,non_profit,8.0,1,1,1,0
+251334,PIONEER COMMUNITY HOSPITAL OF CHOCTAW- CAH,2012,2011.0,government,for_profit,9.0,4,0,0,1
+251334,CHOCTAW REGIONAL MEDICAL CENTER,2015,2014.0,for_profit,government,4.0,9,0,0,1
+251336,BAPTIST MEDICAL CENTER - ATTALA,2015,2014.0,government,non_profit,9.0,1,0,0,1
+252003,,2016,2015.0,non_profit,for_profit,1.0,4,0,0,1
+252005,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+252005,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+252006,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+252009,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+260080,SOUTHEAST HEALTH CENTER OF RIPLEY COUNTY,2014,2013.0,government,non_profit,9.0,2,0,0,1
+260085,ST JOSEPH MEDICAL CENTER,2015,2014.0,non_profit,for_profit,1.0,4,1,1,0
+260105,SSM HEALTH SAINT LOUIS UNIVERSITY HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,1,0,1,0
+260116,,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+260160,SOUTHEASTHEALTH CENTER OF STODDARD COUNTY,2014,2013.0,for_profit,non_profit,4.0,2,0,1,0
+260176,ST LUKE'S DES PERES HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,1,1,0
+260180,CHRISTIAN HOSPITAL NORTHEAST-NORTHWEST,2014,2013.0,for_profit,non_profit,4.0,2,0,0,1
+260193,ST MARY'S MEDICAL CENTER,2015,2014.0,non_profit,for_profit,1.0,4,1,1,0
+261319,MERCY HOSPITAL LINCOLN,2016,2015.0,government,non_profit,9.0,1,0,1,0
+262014,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+262014,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+262017,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+262017,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+263304,,2016,2015.0,non_profit,for_profit,2.0,4,0,0,1
+263304,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+264024,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+264028,,2013,2012.0,non_profit,government,2.0,10,0,0,1
+270023,COMMUNITY MEDICAL CENTER,2015,2014.0,non_profit,for_profit,2.0,4,1,1,0
+280030,ALEGENT CREIGHTON HEALTH CREIGHTON UNIVERSITY MEDI,2012,2011.0,for_profit,non_profit,4.0,1,1,1,0
+280061,REGIONAL WEST MEDICAL CENTER,2015,2014.0,non_profit,for_profit,2.0,6,0,0,1
+280061,REGIONAL WEST MEDICAL CENTER,2016,2015.0,for_profit,non_profit,6.0,2,0,0,1
+280077,METHODIST FREMONT HEALTH,2019,2018.0,government,non_profit,9.0,2,0,1,0
+281310,REGIONAL WEST GARDEN COUNTY HOSPITAL,2014,2013.0,government,non_profit,9.0,2,0,0,1
+281328,MERRICK MEDICAL CENTER,2017,2016.0,government,non_profit,9.0,2,1,1,0
+281357,SIDNEY REGIONAL MEDICAL CENTER,2012,2011.0,for_profit,non_profit,6.0,2,0,0,1
+282000,,2017,2016.0,for_profit,non_profit,6.0,1,0,0,1
+283025,,2017,2016.0,for_profit,non_profit,6.0,1,0,0,1
+283026,,2018,2017.0,for_profit,non_profit,6.0,1,0,0,1
+290001,RENOWN REGIONAL MEDICAL CENTER,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+290001,RENOWN REGIONAL MEDICAL CENTER,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+290009,SAINT MARY'S REGIONAL MEDICAL CENTER,2012,2011.0,non_profit,for_profit,1.0,6,1,1,0
+290042,HARMON HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,2,0,0,1
+290042,HARMON HOSPITAL,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+290049,RENOWN SOUTH MEADOWS MEDICAL CENTER,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+290049,RENOWN SOUTH MEADOWS MEDICAL CENTER,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+293026,,2016,2015.0,for_profit,government,4.0,9,0,0,1
+293026,,2019,2018.0,government,for_profit,9.0,4,0,0,1
+304001,ST CATHERINE HOME HEALTH,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+304001,,2015,2014.0,for_profit,non_profit,4.0,3,0,0,1
+304001,,2017,2016.0,non_profit,for_profit,3.0,4,0,0,1
+310006,ST MARY'S GENERAL HOSPITAL,2015,2014.0,non_profit,for_profit,1.0,4,0,1,0
+310016,CAREPOINT HEALTH-CHRIST HOSPITAL,2013,2012.0,non_profit,for_profit,1.0,5,0,1,0
+310027,TRINITAS REGIONAL MEDICAL CENTER,2013,2012.0,non_profit,for_profit,1.0,5,0,0,1
+310027,TRINITAS REGIONAL MEDICAL CENTER,2014,2013.0,for_profit,non_profit,5.0,1,0,0,1
+310040,CAREPOINT HEALTH-HOBOKEN UMC,2013,2012.0,non_profit,for_profit,2.0,4,1,1,0
+310050,SAINT CLARE'S HOSPITAL/ DENVILLE CAMPUS,2016,2015.0,non_profit,for_profit,1.0,4,0,1,0
+310081,INSPIRA MEDICAL CENTER WOODBURY,2013,2012.0,for_profit,non_profit,6.0,2,0,1,0
+310083,EAST ORANGE GENERAL HOSPITAL,2014,2013.0,government,non_profit,8.0,2,0,1,0
+310083,EAST ORANGE GENERAL HOSPITAL,2016,2015.0,non_profit,for_profit,2.0,4,1,1,0
+310096,SAINT MICHAEL'S MEDICAL CENTER,2017,2016.0,non_profit,for_profit,1.0,4,0,1,0
+314018,,2015,2014.0,government,for_profit,8.0,4,0,0,1
+314023,,2013,2012.0,government,for_profit,9.0,4,0,0,1
+320089,UNM SANDOVAL REGIONAL MEDICAL CENTER,2018,2017.0,government,non_profit,10.0,2,0,0,1
+330019,"NEW YORK COMMUNITY HOSPITAL OF BROOKLYN, INC.",2013,2012.0,for_profit,non_profit,5.0,2,0,0,1
+330023,VASSAR BROTHERS MEDICAL CENTER,2013,2012.0,for_profit,non_profit,4.0,2,0,0,1
+330047,ST MARY'S HOSPITAL AT AMSTERDAM,2016,2015.0,non_profit,for_profit,2.0,5,0,0,1
+330047,ST MARY'S HOSPITAL AT AMSTERDAM,2017,2016.0,for_profit,non_profit,5.0,2,0,0,1
+330136,MARY IMOGENE BASSETT HOSPITAL,2013,2012.0,government,non_profit,7.0,2,0,0,1
+330387,ROCKEFELLER UNIVERSITY HOSPITAL,2016,2015.0,for_profit,non_profit,5.0,3,0,0,1
+330409,,2014,2013.0,for_profit,non_profit,4.0,3,0,0,1
+330409,,2017,2016.0,non_profit,for_profit,3.0,6,0,0,1
+331307,CLIFTON FINE HOSPITAL,2014,2013.0,for_profit,non_profit,4.0,2,0,0,1
+333301,,2012,2011.0,for_profit,non_profit,4.0,3,0,0,1
+333301,,2013,2012.0,non_profit,for_profit,3.0,4,0,0,1
+333301,,2015,2014.0,for_profit,non_profit,5.0,3,0,0,1
+333301,,2018,2017.0,non_profit,for_profit,3.0,6,0,0,1
+334033,,2012,2011.0,for_profit,government,4.0,8,0,0,1
+334064,,2016,2015.0,government,non_profit,10.0,3,0,0,1
+334064,,2018,2017.0,non_profit,for_profit,3.0,6,0,0,1
+334065,,2016,2015.0,government,non_profit,10.0,3,0,0,1
+334065,,2018,2017.0,non_profit,for_profit,3.0,6,0,0,1
+334066,,2018,2017.0,non_profit,for_profit,3.0,6,0,0,1
+340013,RUTHERFORD REGIONAL MEDICAL CENTER,2015,2014.0,non_profit,for_profit,2.0,4,0,1,0
+340016,HARRIS REGIONAL HOSPITAL,2015,2014.0,non_profit,for_profit,2.0,4,0,1,0
+340036,NOVANT HEALTH FRANKLIN MEDICAL CENTER,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+340109,SENTARA ALBEMARLE MEDICAL CENTER,2014,2013.0,government,non_profit,9.0,2,1,1,0
+340119,STANLY REGIONAL MEDICAL CENTER,2012,2011.0,for_profit,non_profit,4.0,2,0,0,1
+340123,RANDOLPH HOSPITAL,2012,2011.0,for_profit,non_profit,4.0,2,0,1,0
+340132,MARIA PARHAM MEDICAL CENTER,2012,2011.0,non_profit,for_profit,2.0,4,0,1,0
+340159,PERSON MEMORIAL HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,0,1,0
+340184,HAYWOOD REGIONAL MEDICAL CENTER,2018,2017.0,government,for_profit,9.0,4,0,1,0
+340188,CAPE FEAR VALLEY HOKE HOSPITAL,2017,2016.0,non_profit,government,2.0,9,0,0,1
+341305,SWAIN COUNTY HOSPITAL,2015,2014.0,non_profit,for_profit,2.0,4,0,1,0
+342016,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+342018,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+342018,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+342018,,2014,2013.0,for_profit,government,4.0,10,0,0,1
+342018,,2018,2017.0,government,for_profit,10.0,4,0,0,1
+342020,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+342020,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+344001,,2012,2011.0,government,for_profit,10.0,6,0,0,1
+344001,,2013,2012.0,for_profit,government,6.0,10,0,0,1
+344001,,2015,2014.0,government,non_profit,10.0,3,0,0,1
+344001,,2016,2015.0,non_profit,for_profit,3.0,5,0,0,1
+344025,,2013,2012.0,non_profit,government,2.0,10,0,0,1
+344028,,2015,2014.0,for_profit,non_profit,5.0,1,0,0,1
+344028,,2016,2015.0,non_profit,for_profit,1.0,4,0,0,1
+344028,,2017,2016.0,for_profit,non_profit,4.0,1,0,0,1
+344029,,2014,2013.0,non_profit,government,2.0,9,0,0,1
+344031,,2018,2017.0,for_profit,non_profit,4.0,3,0,0,1
+360078,ROBINSON MEMORIAL HOSPITAL,2014,2013.0,government,non_profit,9.0,2,0,1,0
+360080,EAST OHIO REGIONAL HOSPITAL,2018,2017.0,non_profit,for_profit,2.0,6,0,1,0
+360109,COSHOCTON COUNTY MEMORIAL HOSPITAL,2015,2014.0,government,non_profit,10.0,2,0,1,0
+360116,SOUTHWEST REGIONAL MEDICAL CENTER,2012,2011.0,government,non_profit,9.0,3,0,1,0
+360148,POMERENE HOSPITAL,2016,2015.0,government,non_profit,9.0,2,0,0,1
+360270,MERCY HOSPITAL OF DEFIANCE,2012,2011.0,for_profit,non_profit,5.0,2,0,0,1
+361309,"HENRY COUNTY HOSPITAL, INC",2015,2014.0,government,non_profit,9.0,2,0,0,1
+361310,MERCY WILLARD HOSPITAL,2012,2011.0,government,non_profit,8.0,1,0,0,1
+362014,,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+362016,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+362016,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+362019,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+362022,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+362027,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+362027,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+362037,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+363308,,2012,2011.0,non_profit,for_profit,2.0,5,0,0,1
+363308,,2014,2013.0,for_profit,non_profit,5.0,2,0,0,1
+363308,,2015,2014.0,non_profit,for_profit,2.0,6,0,0,1
+363308,,2016,2015.0,for_profit,non_profit,6.0,2,0,0,1
+363308,,2017,2016.0,non_profit,for_profit,2.0,5,0,0,1
+363308,,2019,2018.0,for_profit,non_profit,4.0,2,0,0,1
+364038,,2017,2016.0,non_profit,for_profit,2.0,6,0,0,1
+370015,INTEGRIS MAYES COUNTY MEDICAL CENTER,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+370025,SAINT FRANCIS HOSPITAL MUSKOGEE,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+370029,INTEGRIS CLINTON REGIONAL HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+370030,INTEGRIS BLACKWELL REGIONAL HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+370078,OKLAHOMA STATE UNIVERSITY MEDICAL CENTER,2017,2016.0,for_profit,government,4.0,10,0,1,0
+370093,O U MEDICINE,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+370229,INTEGRIS SEMINOLE MEDICAL CENTER,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+371314,THE PHYSICIANS' HOSPITAL IN ANADARKO,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+371316,,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+371326,INTEGRIS MARSHALL COUNTY MEDICAL CENTER,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+371330,QUARTZ MOUNTAIN MEDICAL CENTER,2012,2011.0,government,for_profit,8.0,4,0,0,1
+372007,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+372011,,2014,2013.0,non_profit,for_profit,2.0,4,0,0,1
+373300,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+373300,,2016,2015.0,non_profit,for_profit,2.0,4,0,0,1
+374017,,2018,2017.0,government,for_profit,9.0,4,0,0,1
+380002,ASANTE THREE RIVERS MEDICAL CENTER,2014,2013.0,government,non_profit,9.0,2,0,0,1
+382004,,2017,2016.0,for_profit,government,4.0,7,0,0,1
+383300,,2012,2011.0,non_profit,government,2.0,8,0,0,1
+383300,,2017,2016.0,non_profit,for_profit,2.0,6,0,0,1
+383300,,2018,2017.0,for_profit,non_profit,6.0,2,0,0,1
+390008,ELLWOOD CITY MEDICAL CENTER,2018,2017.0,non_profit,for_profit,2.0,4,0,0,1
+390026,CHESTNUT HILL HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+390048,LEWISTOWN HOSPITAL,2013,2012.0,for_profit,government,4.0,7,1,1,0
+390048,LEWISTOWN HOSPITAL,2014,2013.0,government,for_profit,7.0,4,0,1,0
+390048,GEISINGER-LEWISTOWN HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,2,0,1,0
+390058,CARLISLE REGIONAL MEDICAL CENTER,2017,2016.0,for_profit,non_profit,4.0,2,1,1,0
+390062,NASON HOSPITAL,2015,2014.0,non_profit,for_profit,2.0,4,1,1,0
+390068,HEART OF LANCASTER MEDICAL CENTER,2017,2016.0,for_profit,non_profit,4.0,2,1,1,0
+390070,LOWER BUCKS HOSPITAL,2013,2012.0,non_profit,for_profit,2.0,4,0,1,0
+390071,LOCK HAVEN HOSPITAL,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+390076,BRANDYWINE HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+390081,DELAWARE COUNTY MEMORIAL HOSPITAL,2016,2015.0,non_profit,for_profit,2.0,4,1,1,0
+390084,,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+390101,MEMORIAL HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+390101,MEMORIAL HOSPITAL,2017,2016.0,for_profit,non_profit,4.0,2,1,1,0
+390110,MEMORIAL MEDICAL CENTER,2014,2013.0,non_profit,for_profit,2.0,4,1,1,0
+390119,MOSES TAYLOR HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+390123,POTTSTOWN HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+390127,PHOENIXVILLE HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+390130,CONEMAUGH MINERS MEDICAL CENTER,2015,2014.0,non_profit,for_profit,2.0,4,0,1,0
+390146,WARREN GENERAL HOSPITAL,2014,2013.0,for_profit,non_profit,4.0,2,0,0,1
+390150,WASHINGTON HEALTH SYSTEM GREENE,2015,2014.0,for_profit,non_profit,4.0,2,1,1,0
+390180,CROZER CHESTER MEDICAL CENTER,2016,2015.0,non_profit,for_profit,2.0,4,1,1,0
+390211,SHARON REGIONAL HEALTH SYSTEM,2017,2016.0,non_profit,for_profit,2.0,6,1,1,0
+390220,JENNERSVILLE HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+390328,UPMC EAST,2016,2015.0,non_profit,for_profit,2.0,4,0,0,1
+391302,MEYERSDALE MEDICAL CENTER,2015,2014.0,non_profit,for_profit,2.0,4,0,1,0
+391311,MID-VALLEY HOSPITAL,2012,2011.0,non_profit,for_profit,2.0,4,1,1,0
+392031,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+392031,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+392037,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+392039,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+392039,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+392045,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+392047,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+392047,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+393304,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+393304,,2018,2017.0,non_profit,for_profit,2.0,4,0,0,1
+393309,,2016,2015.0,non_profit,for_profit,2.0,4,0,0,1
+393309,,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+394023,,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+394038,,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+400044,,2014,2013.0,for_profit,non_profit,4.0,2,0,0,1
+400048,,2014,2013.0,government,non_profit,7.0,2,0,0,1
+400113,,2013,2012.0,for_profit,non_profit,4.0,3,0,0,1
+400127,,2013,2012.0,government,non_profit,10.0,1,0,0,1
+400127,,2019,2018.0,non_profit,government,1.0,10,0,0,1
+400130,,2012,2011.0,for_profit,non_profit,6.0,2,0,0,1
+400130,,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+400131,,2012,2011.0,non_profit,for_profit,2.0,4,0,0,1
+410004,ROGER WILLIAMS MEDICAL CENTER,2015,2014.0,non_profit,for_profit,2.0,4,0,1,0
+410005,OUR LADY OF FATIMA HOSPITAL,2015,2014.0,non_profit,for_profit,1.0,4,0,1,0
+410011,"LANDMARK MEDICAL CENTER,  INC",2014,2013.0,non_profit,for_profit,2.0,4,1,1,0
+410011,LANDMARK MEDICAL CENTER,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+413025,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+414003,,2012,2011.0,for_profit,non_profit,4.0,2,0,0,1
+414003,,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+414003,,2016,2015.0,for_profit,non_profit,5.0,3,0,0,1
+414003,,2018,2017.0,non_profit,for_profit,3.0,5,0,0,1
+420026,PROVIDENCE HOSPITAL,2016,2015.0,non_profit,for_profit,1.0,4,1,1,0
+420033,GHS GREER MEMORIAL HOSPITAL,2017,2016.0,government,non_profit,10.0,2,1,1,0
+420037,GHS HILLCREST MEMORIAL HOSPITAL,2017,2016.0,government,non_profit,10.0,2,1,1,0
+420038,GHS  LAURENS COUNTY MEMORIAL HOSPITAL,2017,2016.0,government,non_profit,9.0,2,1,1,0
+420043,NOVANT HEALTH GAFFNEY MEDICAL CENTER,2013,2012.0,non_profit,for_profit,2.0,4,0,1,0
+420048,KERSHAWHEALTH,2019,2018.0,government,for_profit,8.0,4,0,1,0
+420049,CONWAY MEDICAL CENTER,2013,2012.0,non_profit,for_profit,2.0,4,0,0,1
+420049,CONWAY MEDICAL CENTER,2014,2013.0,for_profit,non_profit,4.0,2,0,0,1
+420067,BEAUFORT COUNTY MEMORIAL HOSPITAL,2014,2013.0,non_profit,government,2.0,9,0,0,1
+420078,GHS GREENVILLE MEMORIAL HOSPITAL,2017,2016.0,government,non_profit,10.0,2,1,1,0
+420091,MUSC HEALTH FLORENCE MEDICAL CENTER,2019,2018.0,for_profit,government,4.0,10,1,1,0
+420102,GHS PATEWOOD MEMORIAL HOSPITAL,2017,2016.0,government,non_profit,10.0,2,1,1,0
+420103,VILLAGE HOSPITAL,2014,2013.0,government,non_profit,9.0,3,0,0,1
+422008,,2017,2016.0,government,non_profit,10.0,2,0,0,1
+423300,,2016,2015.0,non_profit,for_profit,3.0,5,0,0,1
+423300,,2018,2017.0,for_profit,non_profit,4.0,3,0,0,1
+423300,,2019,2018.0,non_profit,for_profit,3.0,5,0,0,1
+424003,,2015,2014.0,government,non_profit,10.0,3,0,0,1
+424013,,2015,2014.0,government,non_profit,8.0,3,0,0,1
+424013,,2016,2015.0,non_profit,for_profit,3.0,5,0,0,1
+431305,DOUGLAS COUNTY MEMORIAL HOSPITAL-CAH,2018,2017.0,government,non_profit,9.0,2,0,0,1
+431305,DOUGLAS COUNTY MEMORIAL HOSPITAL-CAH,2019,2018.0,non_profit,government,2.0,9,0,0,1
+433300,,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+433300,,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+440001,UNICOI COUNTY MEMORIAL HOSPITAL,2017,2016.0,government,non_profit,8.0,2,0,1,0
+440006,SKYLINE MEDICAL CENTER,2012,2011.0,for_profit,non_profit,4.0,3,0,0,1
+440006,TRISTAR SKYLINE MEDICAL CENTER,2013,2012.0,non_profit,for_profit,3.0,4,0,0,1
+440033,TENNOVA HEALTHCARE-LAFOLLETT MEDICAL CENTER,2013,2012.0,non_profit,for_profit,1.0,4,0,1,0
+440040,PERRY COMMUNITY HOSPITAL,2015,2014.0,for_profit,government,6.0,7,0,0,1
+440040,PERRY COMMUNITY HOSPITAL,2016,2015.0,government,for_profit,7.0,6,0,0,1
+440056,TENNOVA HEALTHCARE-JEFFERSON MEMORIAL HOSPITAL,2012,2011.0,non_profit,for_profit,1.0,4,0,1,0
+440057,CLAIBORNE MEDICAL CENTER,2014,2013.0,government,non_profit,9.0,2,0,1,0
+440120,TENNOVA HEALTHCARE,2012,2011.0,non_profit,for_profit,1.0,4,0,1,0
+440148,SAINT THOMAS DEKALB HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,1,0,1,0
+440153,TENNOVA HEALTHCARE-NEWPORT MEDICAL CENTER,2012,2011.0,non_profit,for_profit,1.0,4,0,1,0
+440180,"JELLICO MEDICAL CENTER, INC",2019,2018.0,non_profit,for_profit,2.0,4,0,1,0
+440200,SAINT THOMAS STONES RIVER HOSPITAL,2016,2015.0,for_profit,non_profit,4.0,1,0,1,0
+442011,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+442011,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+442014,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+442014,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+442015,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+442015,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+443302,,2014,2013.0,non_profit,for_profit,2.0,4,0,0,1
+443302,,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+443302,,2017,2016.0,non_profit,for_profit,2.0,6,0,0,1
+443303,,2014,2013.0,non_profit,for_profit,2.0,4,0,0,1
+443303,,2016,2015.0,for_profit,non_profit,4.0,2,0,0,1
+450010,UNITED REGIONAL HEALTH CARE SYSTEM,2013,2012.0,non_profit,government,2.0,7,0,0,1
+450010,UNITED REGIONAL HEALTH CARE SYSTEM,2014,2013.0,government,non_profit,7.0,2,0,0,1
+450028,"VHS BROWNSVILLE HOSPITAL COMPANY, LLC",2012,2011.0,non_profit,for_profit,2.0,4,0,1,0
+450058,BAPTIST MEDICAL CENTER,2012,2011.0,non_profit,for_profit,1.0,4,0,1,0
+450083,UT HEALTH EAST TEXAS TYLER REGIONAL HOSPITAL,2019,2018.0,non_profit,for_profit,2.0,4,0,1,0
+450099,PAMPA REGIONAL MEDICAL CENTER,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+450194,UT HEALTH EAST TEXAS JACKSONVILLE HOSPITAL,2018,2017.0,non_profit,for_profit,2.0,4,0,1,0
+450210,UT HEALTH EAST TEXAS CARTHAGE HOSPITAL,2018,2017.0,non_profit,for_profit,2.0,4,0,1,0
+450231,BAPTIST ST ANTHONY'S HOSPITAL,2013,2012.0,non_profit,for_profit,1.0,4,1,1,0
+450389,UT HEALTH EAST TEXAS ATHENS HOSPITAL,2019,2018.0,non_profit,for_profit,2.0,4,0,1,0
+450469,TEXAS HEALTH PRESBYTERIAN HOSPITAL-WNJ,2013,2012.0,non_profit,for_profit,2.0,5,0,1,0
+450475,UT HEALTH EAST TEXAS HENDERSON HOSPITAL,2018,2017.0,non_profit,for_profit,2.0,4,1,1,0
+450580,HOUSTON COUNTY MEDICAL CENTER,2015,2014.0,non_profit,government,2.0,9,0,0,1
+450580,,2017,2016.0,government,for_profit,9.0,5,0,0,1
+450605,,2019,2018.0,for_profit,non_profit,4.0,2,0,0,1
+450730,BAYLOR MEDICAL CENTER AT CARROLLTON,2012,2011.0,for_profit,non_profit,4.0,2,0,1,0
+450742,BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+450885,BAYLOR SCOTT &  WHITE MEDICAL CENTER - CENTENNIAL,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+451367,UT HEALTH EAST TEXAS PITTSBURG HOSPITAL,2019,2018.0,non_profit,for_profit,2.0,4,0,1,0
+451370,RED RIVER REGIONAL HOSPITAL,2014,2013.0,for_profit,government,5.0,9,0,0,1
+451373,WARD MEMORIAL HOSPITAL,2016,2015.0,non_profit,government,2.0,9,0,0,1
+451380,UT HEALTH EAST TEXAS QUITMAN HOSPITAL,2018,2017.0,non_profit,for_profit,2.0,4,1,1,0
+451390,DIMMIT REGIONAL HOSPITAL,2019,2018.0,government,non_profit,9.0,2,0,0,1
+452022,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+452022,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+452031,,2018,2017.0,non_profit,for_profit,1.0,5,0,0,1
+452042,,2018,2017.0,non_profit,for_profit,1.0,4,0,0,1
+452049,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+452051,,2019,2018.0,non_profit,for_profit,2.0,4,0,0,1
+452054,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+452055,,2012,2011.0,non_profit,for_profit,1.0,4,0,0,1
+452061,,2015,2014.0,non_profit,for_profit,1.0,4,0,0,1
+452073,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+452073,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+452078,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+452078,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+452084,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+452086,,2015,2014.0,non_profit,for_profit,1.0,4,0,0,1
+452091,,2014,2013.0,for_profit,non_profit,6.0,2,0,0,1
+453041,,2016,2015.0,for_profit,non_profit,4.0,1,0,0,1
+453072,,2018,2017.0,non_profit,for_profit,2.0,4,0,0,1
+453309,,2016,2015.0,for_profit,non_profit,4.0,1,0,0,1
+453309,,2017,2016.0,non_profit,for_profit,1.0,4,0,0,1
+453311,,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+453311,,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+453311,,2019,2018.0,for_profit,government,4.0,7,0,0,1
+453312,,2016,2015.0,government,for_profit,10.0,4,0,0,1
+453312,,2018,2017.0,for_profit,non_profit,4.0,1,0,0,1
+460019,UINTAH BASIN MEDICAL CENTER,2016,2015.0,government,non_profit,9.0,2,0,0,1
+463302,,2019,2018.0,non_profit,for_profit,2.0,5,0,0,1
+464007,,2016,2015.0,non_profit,for_profit,2.0,4,0,0,1
+464007,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+464007,,2019,2018.0,non_profit,for_profit,2.0,4,0,0,1
+464011,,2016,2015.0,non_profit,for_profit,1.0,6,0,0,1
+464011,,2017,2016.0,for_profit,non_profit,6.0,2,0,0,1
+490019,CULPEPER COMMUNITY HOSPITAL,2015,2014.0,non_profit,government,2.0,10,0,1,0
+490019,NOVANT HEALTH UVA HEALTH SYSTEM CULPEPER MED CENTE,2017,2016.0,government,non_profit,10.0,2,0,1,0
+490023,FAUQUIER HOSPITAL,2014,2013.0,non_profit,for_profit,2.0,4,0,1,0
+490045,PRINCE WILLIAM HOSPITAL,2013,2012.0,government,non_profit,9.0,2,0,0,1
+490115,TWIN COUNTY REGIONAL HOSPITAL,2013,2012.0,non_profit,for_profit,2.0,4,0,1,0
+492008,,2017,2016.0,non_profit,for_profit,2.0,4,0,0,1
+493027,,2018,2017.0,non_profit,for_profit,2.0,4,0,0,1
+493033,,2012,2011.0,non_profit,for_profit,1.0,4,0,0,1
+493300,,2017,2016.0,for_profit,non_profit,4.0,2,0,0,1
+493302,,2016,2015.0,non_profit,for_profit,3.0,4,0,0,1
+500015,MULTICARE AUBURN MEDICAL CENTER,2013,2012.0,for_profit,non_profit,4.0,2,0,1,0
+500025,SWEDISH MEDICAL CENTER/CHERRY HILL,2012,2011.0,for_profit,non_profit,5.0,2,1,1,0
+500037,ASTRIA TOPPENISH HOSPITAL,2019,2018.0,for_profit,non_profit,4.0,2,0,1,0
+500039,HARRISON MEMORIAL HOSPITAL,2016,2015.0,for_profit,non_profit,6.0,2,0,1,0
+500044,MULTICARE DEACONESS HOSPITAL,2018,2017.0,for_profit,non_profit,4.0,2,0,1,0
+500119,MULTICARE VALLEY HOSPITAL,2017,2016.0,for_profit,non_profit,4.0,2,1,1,0
+503301,,2017,2016.0,non_profit,for_profit,2.0,6,0,0,1
+503301,,2018,2017.0,for_profit,non_profit,6.0,1,0,0,1
+503302,,2017,2016.0,non_profit,for_profit,2.0,6,0,0,1
+503302,,2019,2018.0,for_profit,non_profit,6.0,2,0,0,1
+510008,BERKELEY MEDICAL CENTER,2015,2014.0,for_profit,non_profit,6.0,2,0,0,1
+510023,WEIRTON MEDICAL CENTER,2019,2018.0,for_profit,non_profit,6.0,2,0,0,1
+510039,OHIO VALLEY MEDICAL CENTER,2018,2017.0,non_profit,for_profit,2.0,6,0,1,0
+510047,FAIRMONT REGIONAL MEDICAL CENTER,2015,2014.0,non_profit,for_profit,2.0,5,0,1,0
+511313,BOONE MEMORIAL HOSPITAL,2019,2018.0,government,non_profit,9.0,2,0,0,1
+511315,POTOMAC VALLEY HOSPITAL,2017,2016.0,for_profit,non_profit,4.0,2,0,1,0
+512002,,2012,2011.0,government,for_profit,10.0,4,0,0,1
+514011,,2017,2016.0,non_profit,for_profit,3.0,4,0,0,1
+514011,,2019,2018.0,for_profit,non_profit,4.0,2,0,0,1
+520034,AURORA MEDICAL CTR MANITOWOC COUNTY,2014,2013.0,non_profit,for_profit,2.0,4,0,1,0
+520034,AURORA MEDICAL CTR MANITOWOC COUNTY,2018,2017.0,for_profit,non_profit,4.0,2,1,1,0
+520116,WATERTOWN REGIONAL MEDICAL CENTER,2015,2014.0,non_profit,for_profit,2.0,4,1,1,0
+520193,AURORA BAYCARE MEDICAL CTR,2018,2017.0,non_profit,for_profit,2.0,4,1,1,0
+522006,,2012,2011.0,for_profit,government,4.0,10,0,0,1
+522006,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+522008,,2013,2012.0,government,for_profit,10.0,4,0,0,1
+523300,,2018,2017.0,for_profit,non_profit,4.0,2,0,0,1
+530002,CAMPBELL COUNTY MEMORIAL HOSPITAL,2015,2014.0,non_profit,government,2.0,9,0,0,1
+530034,SUMMIT MEDICAL CENTER,2017,2016.0,non_profit,for_profit,2.0,6,0,0,1
+531311,CROOK COUNTY MEDICAL SERVICES DISTRCT,2013,2012.0,for_profit,non_profit,5.0,2,0,1,0
+531316,MEMORIAL HOSPITAL OF CARBON COUNTY,2019,2018.0,non_profit,government,2.0,9,0,0,1
+670053,ST LUKE'S SUGAR LAND HOSPITAL,2012,2011.0,for_profit,non_profit,5.0,1,0,1,0
+670075,ST LUKE'S HOSPITAL AT THE VINTAGE,2014,2013.0,for_profit,non_profit,4.0,2,0,1,0
+670085,TEXAS HEALTH HARRIS METHODIST HOSPITAL ALLIANCE,2014,2013.0,non_profit,for_profit,2.0,4,0,0,1
+670085,TEXAS HEALTH HARRIS METHODIST HOSPITAL ALLIANCE,2015,2014.0,for_profit,non_profit,4.0,2,0,0,1
+670102,,2016,2015.0,non_profit,for_profit,3.0,4,0,0,1
+670109,ALTUS BAYTOWN HOSPITAL,2016,2015.0,non_profit,for_profit,3.0,5,0,0,1
+670110,FIRST TEXAS HOSPITAL CARRROLLTON LLC,2017,2016.0,non_profit,for_profit,2.0,5,0,0,1
