@@ -219,14 +219,6 @@ pip install pandas numpy matplotlib seaborn statsmodels requests jupyter linearm
 
 `linearmodels` is only required for the `_T` notebooks.
 
-## Notes and Known Caveats
 
-- The results should be interpreted as suggestive rather than definitive causal evidence because DiD depends on the parallel-trends assumption.
-- A non-significant pre-trend test supports, but does not prove, the parallel-trends assumption.
-- Hospitals may select into mergers for reasons related to future costs, so time-varying selection remains a concern.
-- Standard two-way fixed-effects event studies can be difficult to interpret with staggered treatment timing and heterogeneous treatment effects.
-- HCRIS cost report data can contain missing values, outliers, and reporting inconsistencies.
-- The current `requirements.txt` is empty; pinning package versions would improve reproducibility.
-- Some notebook markdown refers to subgroup checks, but the current `01_parallel_trend_check.ipynb` only implements the full-sample check.
 
 
